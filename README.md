@@ -4,7 +4,7 @@ swiftest
 The CLI utilities for Swift installation testing
 
 
-h1. How to run? 
+## How to run? 
 
 Fill your swift parameters into the `settings` file:
 
